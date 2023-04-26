@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
       alt="Gatsby logo"
       height={20}
       style={{ margin: 0 }}
-      src="src/images/site-icon.png"
+      src="images/site-icon.png"
     />
   </header>
 )
