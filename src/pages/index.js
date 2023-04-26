@@ -9,7 +9,6 @@ const SecondPage = () => (
     <h1>Transform any notion page into a live site</h1>
     <p><input defaultValue={'paste the public notion URL here'}></input><button>Go</button></p>
     <p>Make sure your notion site <a href="https://google.com">is public</a></p>
-    <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 
